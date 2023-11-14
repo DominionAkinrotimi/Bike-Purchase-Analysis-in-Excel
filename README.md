@@ -1,4 +1,4 @@
-# Bike Purchase Analysis 
+# Bike Purchase Analysis in Excel
 
 ## Overview
 This repository contains an in-depth analysis of bike purchases based on a comprehensive dataset. The analysis includes customer demographics and purchasing details, presented through interactive visualizations in an Excel dashboard.
